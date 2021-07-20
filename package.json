@@ -18,5 +18,8 @@
         "url": "https://github.com/abiriadev/action-test/issues"
     },
     "homepage": "https://github.com/abiriadev/action-test#readme",
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "dotenv": "^10.0.0"
+    }
 }
